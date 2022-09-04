@@ -4,6 +4,7 @@
 
 - [Description](#description)
 - [Github Repository Link](#github-repository-link)
+- [video recordings links](#video-recordings-links)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -16,6 +17,13 @@ In this application I used restful routes to get data from database using the ex
 ## github-repository-link
 
 https://github.com/RamiElsayed/E-commerce-store.git
+
+## video-recordings-links
+
+https://drive.google.com/file/d/1jukDXaS2Tua_nLrBHLqzC8CWVbEGs5QU/view
+https://drive.google.com/file/d/1LWnQnN-FYpojAGnnZd5aMDidjqXfBXnH/view
+https://drive.google.com/file/d/17_Jac3ghNaBCGwV5DGlt9VH-RzAktJvZ/view
+https://drive.google.com/file/d/1yjtRzIZOqgdIoR8X2ViGMuDJs3D--JPO/view
 
 ## Installation
 
